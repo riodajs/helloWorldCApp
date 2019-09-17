@@ -1,0 +1,11 @@
+/home/riodajs/Documents/dotnet/helloWorldCApp/bin/Debug/netcoreapp2.2/helloWorldCApp.deps.json
+/home/riodajs/Documents/dotnet/helloWorldCApp/bin/Debug/netcoreapp2.2/helloWorldCApp.runtimeconfig.json
+/home/riodajs/Documents/dotnet/helloWorldCApp/bin/Debug/netcoreapp2.2/helloWorldCApp.runtimeconfig.dev.json
+/home/riodajs/Documents/dotnet/helloWorldCApp/bin/Debug/netcoreapp2.2/helloWorldCApp.dll
+/home/riodajs/Documents/dotnet/helloWorldCApp/bin/Debug/netcoreapp2.2/helloWorldCApp.pdb
+/home/riodajs/Documents/dotnet/helloWorldCApp/obj/Debug/netcoreapp2.2/helloWorldCApp.csprojAssemblyReference.cache
+/home/riodajs/Documents/dotnet/helloWorldCApp/obj/Debug/netcoreapp2.2/helloWorldCApp.csproj.CoreCompileInputs.cache
+/home/riodajs/Documents/dotnet/helloWorldCApp/obj/Debug/netcoreapp2.2/helloWorldCApp.AssemblyInfoInputs.cache
+/home/riodajs/Documents/dotnet/helloWorldCApp/obj/Debug/netcoreapp2.2/helloWorldCApp.AssemblyInfo.cs
+/home/riodajs/Documents/dotnet/helloWorldCApp/obj/Debug/netcoreapp2.2/helloWorldCApp.dll
+/home/riodajs/Documents/dotnet/helloWorldCApp/obj/Debug/netcoreapp2.2/helloWorldCApp.pdb
